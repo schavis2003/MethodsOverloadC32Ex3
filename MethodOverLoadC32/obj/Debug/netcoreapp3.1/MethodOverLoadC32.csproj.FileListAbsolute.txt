@@ -1,0 +1,14 @@
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\obj\Debug\netcoreapp3.1\MethodOverLoadC32.csproj.AssemblyReference.cache
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\obj\Debug\netcoreapp3.1\MethodOverLoadC32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\obj\Debug\netcoreapp3.1\MethodOverLoadC32.AssemblyInfoInputs.cache
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\obj\Debug\netcoreapp3.1\MethodOverLoadC32.AssemblyInfo.cs
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\obj\Debug\netcoreapp3.1\MethodOverLoadC32.csproj.CoreCompileInputs.cache
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\bin\Debug\netcoreapp3.1\MethodOverLoadC32.exe
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\bin\Debug\netcoreapp3.1\MethodOverLoadC32.deps.json
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\bin\Debug\netcoreapp3.1\MethodOverLoadC32.runtimeconfig.json
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\bin\Debug\netcoreapp3.1\MethodOverLoadC32.runtimeconfig.dev.json
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\bin\Debug\netcoreapp3.1\MethodOverLoadC32.dll
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\bin\Debug\netcoreapp3.1\MethodOverLoadC32.pdb
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\obj\Debug\netcoreapp3.1\MethodOverLoadC32.dll
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\obj\Debug\netcoreapp3.1\MethodOverLoadC32.pdb
+C:\Users\19102\source\repos\MethodOverLoadC32\MethodOverLoadC32\obj\Debug\netcoreapp3.1\MethodOverLoadC32.genruntimeconfig.cache
